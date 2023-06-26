@@ -1,6 +1,5 @@
 
-![fundo tectec (1)](https://user-images.githubusercontent.com/70353348/204153968-c7aae01b-3e7d-4202-b8a1-88b8e021b9ca.gif)
-
+![nfs2](https://github.com/wendersoon/sistema_NFS/assets/70353348/d3c6fa31-5389-4cbc-bbda-9ecb846986ad)
 
 # Introdução
 
